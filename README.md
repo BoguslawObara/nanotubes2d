@@ -3,7 +3,7 @@
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/nanotubes2d/blob/master/im/nanotubes.png" width="250">  | <img src="https://github.com/BoguslawObara/nanotubes2d/blob/master/im/nanotubes_orient.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/nanotubes2d/blob/master/im/nanotubes.png" width="250">  | <img src="https://github.com/BoguslawObara/nanotubes2d/blob/master/im/nanotubes_orient.png" width="300"> |
 
 Required packages:
 - [vesselness2d](../../../vesselness2d)
